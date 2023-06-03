@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif Gujarati
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)
+- Font Source: http://fonts.gstatic.com/s/notoserifgujarati/v26/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzuM1Kf-OJu.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
